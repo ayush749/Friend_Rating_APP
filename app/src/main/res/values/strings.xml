@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FriendRatingAPP</string>
+    <string name="title_activity_rating_to_user">RatingToUser</string>
+</resources>
